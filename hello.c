@@ -10,7 +10,11 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Name: Theo Joseph\n");
+  printf("Major: Undeclared\n\n");
+  printf("Name:\n");
+  printf("Major:\n");
+
 
   return 0;
 }
